@@ -1,0 +1,12 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Debug Hello World (PowerShell)",
+      "type": "PowerShell",
+      "request": "launch",
+      "script": "${workspaceFolder}/main.ps1",
+      "cwd": "${workspaceFolder}"
+    }
+  ]
+}
